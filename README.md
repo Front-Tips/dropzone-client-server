@@ -2,4 +2,4 @@
 
 ## Tip Link
 
-[Drag and Drop Files JS Library](https://front.tip/dropzone-js-library-drag-drop-upload-files)
+[Drag and Drop Files JS Library](https://front.tips/dropzone-js-library-drag-drop-upload-files)
